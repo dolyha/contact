@@ -7,6 +7,7 @@ import java.util.Scanner;
 public class ExportPhone {
 
 	abstract class SetPhone {
+		// this is abstract class
 		public abstract void InsertPhone(String name, int Phone);
 
 		public abstract void RemovePhone(String name);
